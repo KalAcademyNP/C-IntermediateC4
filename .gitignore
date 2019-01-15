@@ -3,3 +3,8 @@
 ################################################################################
 
 /AutomobileDemo/.vs/AutomobileDemo
+/AutomobileDemo/AutomobileDemo/bin/Debug/netcoreapp2.1
+/AutomobileDemo/AutomobileDemo/obj
+/InterfaceDemo/.vs/InterfaceDemo
+/InterfaceDemo/InterfaceDemo/bin/Debug/netcoreapp2.1
+/InterfaceDemo/InterfaceDemo/obj
