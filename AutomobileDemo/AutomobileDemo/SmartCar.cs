@@ -6,9 +6,14 @@ namespace AutomobileDemo
 {
     class SmartCar : Car
     {
-        public override void OpenDoor()
+        public new void OpenDoor()
         {
             Console.WriteLine("Smart car open door");
+        }
+
+        public new void Shutdoor()
+        {
+
         }
     }
 }
