@@ -1,0 +1,11 @@
+C:\Github\IntermediateC1\DelegatesDemo2\EventsDemo\bin\Debug\netcoreapp2.1\EventsDemo.deps.json
+C:\Github\IntermediateC1\DelegatesDemo2\EventsDemo\bin\Debug\netcoreapp2.1\EventsDemo.runtimeconfig.json
+C:\Github\IntermediateC1\DelegatesDemo2\EventsDemo\bin\Debug\netcoreapp2.1\EventsDemo.runtimeconfig.dev.json
+C:\Github\IntermediateC1\DelegatesDemo2\EventsDemo\bin\Debug\netcoreapp2.1\EventsDemo.dll
+C:\Github\IntermediateC1\DelegatesDemo2\EventsDemo\bin\Debug\netcoreapp2.1\EventsDemo.pdb
+C:\Github\IntermediateC1\DelegatesDemo2\EventsDemo\obj\Debug\netcoreapp2.1\EventsDemo.csprojAssemblyReference.cache
+C:\Github\IntermediateC1\DelegatesDemo2\EventsDemo\obj\Debug\netcoreapp2.1\EventsDemo.csproj.CoreCompileInputs.cache
+C:\Github\IntermediateC1\DelegatesDemo2\EventsDemo\obj\Debug\netcoreapp2.1\EventsDemo.AssemblyInfoInputs.cache
+C:\Github\IntermediateC1\DelegatesDemo2\EventsDemo\obj\Debug\netcoreapp2.1\EventsDemo.AssemblyInfo.cs
+C:\Github\IntermediateC1\DelegatesDemo2\EventsDemo\obj\Debug\netcoreapp2.1\EventsDemo.dll
+C:\Github\IntermediateC1\DelegatesDemo2\EventsDemo\obj\Debug\netcoreapp2.1\EventsDemo.pdb

@@ -1,0 +1,11 @@
+C:\Github\IntermediateC1\DelegatesDemo2\SemaphoreDemo\SemaphoreDemo\bin\Debug\netcoreapp2.1\SemaphoreDemo.deps.json
+C:\Github\IntermediateC1\DelegatesDemo2\SemaphoreDemo\SemaphoreDemo\bin\Debug\netcoreapp2.1\SemaphoreDemo.runtimeconfig.json
+C:\Github\IntermediateC1\DelegatesDemo2\SemaphoreDemo\SemaphoreDemo\bin\Debug\netcoreapp2.1\SemaphoreDemo.runtimeconfig.dev.json
+C:\Github\IntermediateC1\DelegatesDemo2\SemaphoreDemo\SemaphoreDemo\bin\Debug\netcoreapp2.1\SemaphoreDemo.dll
+C:\Github\IntermediateC1\DelegatesDemo2\SemaphoreDemo\SemaphoreDemo\bin\Debug\netcoreapp2.1\SemaphoreDemo.pdb
+C:\Github\IntermediateC1\DelegatesDemo2\SemaphoreDemo\SemaphoreDemo\obj\Debug\netcoreapp2.1\SemaphoreDemo.csprojAssemblyReference.cache
+C:\Github\IntermediateC1\DelegatesDemo2\SemaphoreDemo\SemaphoreDemo\obj\Debug\netcoreapp2.1\SemaphoreDemo.csproj.CoreCompileInputs.cache
+C:\Github\IntermediateC1\DelegatesDemo2\SemaphoreDemo\SemaphoreDemo\obj\Debug\netcoreapp2.1\SemaphoreDemo.AssemblyInfoInputs.cache
+C:\Github\IntermediateC1\DelegatesDemo2\SemaphoreDemo\SemaphoreDemo\obj\Debug\netcoreapp2.1\SemaphoreDemo.AssemblyInfo.cs
+C:\Github\IntermediateC1\DelegatesDemo2\SemaphoreDemo\SemaphoreDemo\obj\Debug\netcoreapp2.1\SemaphoreDemo.dll
+C:\Github\IntermediateC1\DelegatesDemo2\SemaphoreDemo\SemaphoreDemo\obj\Debug\netcoreapp2.1\SemaphoreDemo.pdb

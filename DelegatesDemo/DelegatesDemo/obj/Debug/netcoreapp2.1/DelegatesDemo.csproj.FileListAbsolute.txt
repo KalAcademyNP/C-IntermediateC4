@@ -8,3 +8,14 @@ C:\Projects\IntermediateC#\gitrepo\DelegatesDemo\DelegatesDemo\obj\Debug\netcore
 C:\Projects\IntermediateC#\gitrepo\DelegatesDemo\DelegatesDemo\obj\Debug\netcoreapp2.1\DelegatesDemo.AssemblyInfo.cs
 C:\Projects\IntermediateC#\gitrepo\DelegatesDemo\DelegatesDemo\obj\Debug\netcoreapp2.1\DelegatesDemo.dll
 C:\Projects\IntermediateC#\gitrepo\DelegatesDemo\DelegatesDemo\obj\Debug\netcoreapp2.1\DelegatesDemo.pdb
+C:\Github\IntermediateC1\DelegatesDemo\DelegatesDemo\bin\Debug\netcoreapp2.1\DelegatesDemo.deps.json
+C:\Github\IntermediateC1\DelegatesDemo\DelegatesDemo\bin\Debug\netcoreapp2.1\DelegatesDemo.runtimeconfig.json
+C:\Github\IntermediateC1\DelegatesDemo\DelegatesDemo\bin\Debug\netcoreapp2.1\DelegatesDemo.runtimeconfig.dev.json
+C:\Github\IntermediateC1\DelegatesDemo\DelegatesDemo\bin\Debug\netcoreapp2.1\DelegatesDemo.dll
+C:\Github\IntermediateC1\DelegatesDemo\DelegatesDemo\bin\Debug\netcoreapp2.1\DelegatesDemo.pdb
+C:\Github\IntermediateC1\DelegatesDemo\DelegatesDemo\obj\Debug\netcoreapp2.1\DelegatesDemo.csprojAssemblyReference.cache
+C:\Github\IntermediateC1\DelegatesDemo\DelegatesDemo\obj\Debug\netcoreapp2.1\DelegatesDemo.csproj.CoreCompileInputs.cache
+C:\Github\IntermediateC1\DelegatesDemo\DelegatesDemo\obj\Debug\netcoreapp2.1\DelegatesDemo.AssemblyInfoInputs.cache
+C:\Github\IntermediateC1\DelegatesDemo\DelegatesDemo\obj\Debug\netcoreapp2.1\DelegatesDemo.AssemblyInfo.cs
+C:\Github\IntermediateC1\DelegatesDemo\DelegatesDemo\obj\Debug\netcoreapp2.1\DelegatesDemo.dll
+C:\Github\IntermediateC1\DelegatesDemo\DelegatesDemo\obj\Debug\netcoreapp2.1\DelegatesDemo.pdb
