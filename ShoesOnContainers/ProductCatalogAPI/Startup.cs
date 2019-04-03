@@ -27,7 +27,12 @@ namespace ProductCatalogAPI
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_1);
-            services.AddDbContext<CatalogContext>(options => options.UseSqlServer(Configuration["ConnectionString"]));
+            var server = Configuration["DatabaseServer"];
+            var db = Configuration["DatabaseName"];
+            var user = Configuration["DatabaseUser"];
+            var password = Configuration["DatabasePassword"];
+            var connectionString = $"Server={server};Database={db};User ID={user};Password={password};MultipleActiveResultSets=true";
+            services.AddDbContext<CatalogContext>(options => options.UseSqlServer(connectionString));
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
